@@ -2,7 +2,7 @@
 # Open Tree Data Analysis
 ### Exploring hidden tree patterns with urban walks in Rome
 ### Project Description
-As a continuation of the EDEN project and part of STARTS.EU project, **Trees in cities** is a project that focuses on cities' green spaces, specifically on urban trees and their potential effect on the life of people. There are two main datasets in the project: depersonalized human trajectories (with induced noise) and open data of trees in Rome. We analyse layered geographical data and use statistical spatial analysis. More importantly, in this project, we introduce a new measure, **Green Index**, to assess the information about the city walks.
+As part of STARTS.EU project, **Trees in cities** is a project that focuses on cities' green spaces, specifically on urban trees and their potential effect on the life of people. There are two main datasets in the project: depersonalized human trajectories (with induced noise) and open data of trees in Rome. We analyse layered geographical data and use statistical spatial analysis. More importantly, in this project, we introduce a new measure, **Green Index**, to assess the information about the city walks.
 
 This project tackles the issue of the integration of trees into the cityscape. It is motivated mainly by post-COVID city crisis recovery and how to keep cities greener and more suitable for people to live in.
 ### Hypothesis
@@ -12,6 +12,7 @@ We work with two main datasets. The first one is the data for trees in Rome. The
 
 ### Analysis Notebooks
 Analysis notebooks includes different parts of analysis on people's trajectories and trees:
+(updated by Yasamin)
 
 * betweenness_city_streets_for_tree
 * data_mobility_analysis
