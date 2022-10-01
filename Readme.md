@@ -14,29 +14,29 @@ We work with two main datasets. The first one is the data for trees in Rome. The
 Analysis notebooks includes different parts of analysis on people's trajectories and trees:
 (updated by Yasamin)
 
-* 1. green_index_calculation:
+* 1. [green_index_calculation](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/1.%20green_index_calculation.ipynb):
     In this notebook there are all preparations of all trajectories dataset with trees dataset. Here you can find:
     * Analyzing all trajectories from "all_trajectories" file
     * Estimating distance between each two stops of a trip in "distance_km" and "distance_minutes" column
     * Estimating the number of trees around each stop in "number_trees" column
     * Defining "green_index" both in time and distance
     * Estimating clustering of mobility points
-* 2. green_index_plotting:
+* 2. [green_index_plotting](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/2.%20green_index_plotting.ipynb):
     In this notebook we use the dataset we made in previous notebook (green_index_calculation.ipynb) and plot the trajectories in city map. In this notebook we have: 
     * Discovering the correlation between distance and time at each stop
     * Scatter Plots for showing the correaltion between distance and time
     * Plotting all the trajectories in city map
     * Defining the outliers and plotting them on the map    
-* 3. centrality_measure_for_trees:
+* 3. [centrality_measure_for_trees](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/3.%20centrality_measure_trees.ipynb):
     In this notebook there are calculations for estimating the centrality betweenness and degree centrality for trees using OSMNX and Networkx.
-* 4. clustering_mobility_and_tree_data:
+* 4. [clustering_mobility_and_tree_data](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/4.%20clustering_mobility_and_tree_data.ipynb):
     In this notebook there clustering trajectories and trees in the city map. 
-* 5. betweenness_city_streets_for_tree:
+* 5. [betweenness_city_streets_for_tree](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/5.%20betweenness_city_streets_for_tree.ipynb):
      Some attempts for loading different parts of Rome using OSMNX (can be removed or merged with other notebooks) 
-* 6. data_mobility_analysis:
+* 6. [data_mobility_analysis](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/6.%20data_mobility_analysis.ipynb):
     There are some plots of different indices (can be removed or merged with other notebooks) 
-* 7. explore_full_data_rome:
+* 7. [explore_full_data_rome](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/7.%20explore_full_data_rome.ipynb):
     Some plots of different tree datasets on city map (can be removed or merged with other notebooks) 
-* 8. green_walk_index_mobility:
+* 8. [green_walk_index_mobility](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/8.%20green_walk_index_mobility.ipynb):
     Calulation of green index (can be removed)
 
