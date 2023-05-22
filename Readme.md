@@ -40,5 +40,11 @@ Analysis notebooks includes different parts of analysis on people's trajectories
 * 8. [green_walk_index_mobility](https://github.com/Liyubov/open_tree_data_analysis/blob/main/notebooks/analysis/8.%20green_walk_index_mobility.ipynb):
     Calulation of green index (can be removed)
 
+# Paper 
+Our paper is accepted to the journal of Cartography (2023) special issue. 
+In process of publication to be shared.
+
 # Contributions 
-From Liubov and Yasamin (LPI).
+From L. and Y. (LPI).
+
+
